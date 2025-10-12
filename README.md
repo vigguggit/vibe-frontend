@@ -1,2 +1,2 @@
 # vibe-frontend
-angular project
+angular project 
